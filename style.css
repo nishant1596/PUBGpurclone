@@ -1,0 +1,115 @@
+.container-fluid{
+  padding-right:0;
+    padding-left:0;
+    margin-right:auto;
+    margin-left:auto;
+    overflow-x: hidden;
+}
+.side-pubg-image{
+  height: 100%;
+background-image: url(pubgpur-logo-new.png);
+background-position: center;
+background-repeat: no-repeat;
+background-size:auto;
+background-color: #181F23  ;
+margin-left: -30px;
+
+/* position: fixed; */
+
+
+}
+.nav-homepage{
+  color:white;
+  background-color: black;
+}
+.menubar-homepage-1{
+  width: 25px;
+  height: 3px;
+  background-color: white;
+  margin: 3px;
+}
+.menubar-homepage{
+  margin:12px;
+  cursor: pointer;
+}
+.menubar-image-homepage{
+  height: 40px;
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+}
+.trophy-icon{
+  background-color: white;
+  height: 15px;
+  background-color: black;
+}
+.container{
+  margin: 12px 0px;
+}
+.star-homepage{
+  color:white;
+  height: 15px;
+  background: white;
+}
+.youtube-icon{
+  background-color: white;
+  height: 20px;
+  background-color: black;
+}
+.link-arrow{
+  float: right;
+}
+a{
+  text-decoration: none;
+}
+a:link{
+  text-decoration: none;
+  color:white;
+}
+a:hover{
+  outline:1px solid white;
+  outline-offset: 4px;
+}
+a:visited{
+  text-decoration: none;
+  color:white;
+}
+.center{
+  text-align:center;
+}
+.jumbo{
+  border:1px solid grey;
+  border-radius: 3%;
+}
+.grey{
+  color:grey;
+}
+.bold{
+  font-weight: bold;
+}
+.orange{
+  color:orange;
+}
+.blue{
+  color:blue;
+}
+.small{
+  font-size: 13px;
+}
+.progress{
+  margin:8px 15px;
+}
+.jumbo-container{
+  padding-right:20px;
+}
+.address{
+  position: relative;
+  top: 70%;
+  left:80%;
+  color:white;
+  transform: translate(-50%,-50%);
+}
+.address > a:link{
+  outline:1px solid white;
+  outline-offset: 4px;
+}
